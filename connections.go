@@ -5,7 +5,7 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/techBeck03/guacamole-api-client/types"
+	"github.com/Projeto-Automation/guacamole-api-client/types"
 )
 
 const (
